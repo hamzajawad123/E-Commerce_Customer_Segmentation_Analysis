@@ -79,22 +79,20 @@ The goal is to uncover distinct customer groups based on purchasing behavior and
 Here are a few key visualizations generated during the customer segmentation analysis:  
 
 **Visualization 1: Elbow Method for Optimal k (Inertia vs k)**  
-This plot helps determine the optimal number of clusters by showing how the inertia (within-cluster variance) decreases as the number of clusters increases.  
-![Elbow Method for Optimal k (Inertia vs k)](visuals/Elbow_Method_for_Optimal_k_(Inertia vs k).png)  
+This plot helps determine the optimal number of clusters by showing how the inertia (within-cluster variance) decreases as the number of clusters increases.
+![Elbow Method for Optimal k (Inertia vs k)](./visuals/elbow_method_for_optimal_k_(Inertia_vs_k).png)  
 
 ---
 
 **Visualization 2: Recency vs Frequency by Cluster**  
 This scatterplot shows customer groups segmented by their recency and frequency scores, providing a clear visual of how different clusters are separated.  
-![Recency vs Frequency by Cluster](visuals/recency_frequency_clusters.png)  
+![Recency vs Frequency by Cluster](./visuals/recency_vs_frequency_by_cluster.png)  
 
 ---
 
 **Visualization 3: Normalized RFM Profile by Cluster**  
 This heatmap shows the median normalized RFM values for each cluster, highlighting how clusters differ in their purchasing behavior patterns.  
-![Normalized RFM Profile by Cluster](visuals/rfm_profile_heatmap.png)  
-
-
+![Normalized RFM Profile by Cluster](visuals/normalized_rfm_profile_by_cluster.png)
 
 ---
 
