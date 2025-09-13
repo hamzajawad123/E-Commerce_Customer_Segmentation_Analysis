@@ -80,7 +80,7 @@ Here are a few key visualizations generated during the customer segmentation ana
 
 **Visualization 1: Elbow Method for Optimal k (Inertia vs k)**  
 This plot helps determine the optimal number of clusters by showing how the inertia (within-cluster variance) decreases as the number of clusters increases.  
-![Elbow Method for Optimal k (Inertia vs k)](visuals/elbow_method.png)  
+![Elbow Method for Optimal k (Inertia vs k)](visuals/Elbow_Method_for_Optimal_k_(Inertia vs k).png)  
 
 ---
 
